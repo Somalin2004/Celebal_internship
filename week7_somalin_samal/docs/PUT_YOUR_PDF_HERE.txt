@@ -1,0 +1,1 @@
+Place your PDF file(s) in this folder, then run ingest.py
