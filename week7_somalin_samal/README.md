@@ -39,3 +39,5 @@ and generates answers grounded in that information.
 - Hybrid search (keyword + vector)
 - Re-ranking retrieved chunks
 - Support for multiple file types (txt, docx)
+  <img width="916" height="915" alt="Screenshot 2026-08-02 011453" src="https://github.com/user-attachments/assets/2f1e005a-4491-4b54-8deb-c772a9f9532d" />
+
